@@ -18,6 +18,7 @@ locale  screengrab  hr-HR chrome/locale/hr-HR/
 locale  screengrab  it chrome/locale/it/
 locale  screengrab  ja-JP chrome/locale/ja-JP/
 locale  screengrab  nl-NL chrome/locale/nl-NL/
+locale  screengrab  pt-BR chrome/locale/pt-BR/
 locale  screengrab  ru chrome/locale/ru/
 locale  screengrab  sk-SK chrome/locale/sk-SK/
 locale  screengrab  sl-SL chrome/locale/sl-SL/
